@@ -1,1 +1,1 @@
-printing all the groups the current user is part of
+setting the mode of the file
