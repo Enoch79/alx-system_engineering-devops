@@ -1,1 +1,1 @@
-printing all the groups the currernt user is part of
+changing the owner of the file hello to the user bett
