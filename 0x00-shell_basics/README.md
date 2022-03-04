@@ -1,1 +1,1 @@
-deleting a directory in another director
+changing the working directory to the previous one
