@@ -1,1 +1,1 @@
-changing of owners
+changing the owner of the file
