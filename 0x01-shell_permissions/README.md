@@ -1,1 +1,1 @@
-changing the group the owner
+changing the owners
