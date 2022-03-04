@@ -1,1 +1,1 @@
-listing all files
+printing the type of the file named
