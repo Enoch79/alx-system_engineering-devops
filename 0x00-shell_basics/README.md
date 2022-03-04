@@ -1,1 +1,1 @@
-copying all the HTML files from the current working directory to the parent of the working directory
+moving all file beginning with an uppercase letter to the directory
