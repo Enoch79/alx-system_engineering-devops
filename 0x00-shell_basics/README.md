@@ -1,1 +1,1 @@
-learning how to write script
+deleting a directory in another director
