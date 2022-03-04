@@ -1,1 +1,1 @@
-dding the execute permission to all subdirectories of the current directory for the owner
+creaing a directory with permissions 751 in the working directory
