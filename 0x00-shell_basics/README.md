@@ -1,1 +1,1 @@
-file -c -m school.mgc
+changing links
