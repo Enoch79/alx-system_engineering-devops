@@ -1,1 +1,1 @@
-creating directories in the current directory
+listing all the files and directories of the current directory
