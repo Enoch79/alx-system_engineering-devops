@@ -1,1 +1,1 @@
-replacing characters
+removing all letters
