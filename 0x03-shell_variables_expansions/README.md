@@ -1,1 +1,1 @@
-creating an alias
+adding /action to the path
