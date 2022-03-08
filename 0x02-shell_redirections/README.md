@@ -1,1 +1,1 @@
-deleting all the regular files
+ displaying 10 newest files in the current directory
