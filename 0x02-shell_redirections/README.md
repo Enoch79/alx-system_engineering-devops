@@ -1,1 +1,1 @@
-displaying the lines containing the pattern root from the file
+displaying the numbwe of lines
