@@ -1,1 +1,1 @@
-listing all the files with a gfs extension in the current directory and its directories
+decoding acrostics that use the first letter of each line
