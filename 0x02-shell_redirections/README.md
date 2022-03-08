@@ -1,1 +1,1 @@
-writting a file into a file
+duplicating the last line of a file
