@@ -1,1 +1,1 @@
-printing out standard output
+displaying the last ten line of a file
