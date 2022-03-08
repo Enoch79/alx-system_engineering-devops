@@ -1,1 +1,1 @@
-displaying all users and their home directories sorted by users
+displaying all the users and their home directories
