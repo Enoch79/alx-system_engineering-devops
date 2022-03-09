@@ -1,1 +1,1 @@
-printing every other line from the input
+ adding the two numbers stored in the environment variable
