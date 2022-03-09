@@ -1,1 +1,1 @@
-environment variable by new line
+printing the result of power and divided by DIVIDE
