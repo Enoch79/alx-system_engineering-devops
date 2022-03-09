@@ -1,1 +1,1 @@
- adding the two numbers stored in the environment variable
+printing the result of the addition of 128 with the value stored in the environment
