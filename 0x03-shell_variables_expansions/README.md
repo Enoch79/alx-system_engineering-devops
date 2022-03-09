@@ -1,1 +1,1 @@
-creating new global variable
+environment variable by new line
