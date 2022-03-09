@@ -1,1 +1,1 @@
-listing the environment variables
+printing hello user
