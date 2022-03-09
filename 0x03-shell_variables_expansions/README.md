@@ -1,1 +1,1 @@
-printing all possible combinations of two letters
+printing a number with two decimal places
