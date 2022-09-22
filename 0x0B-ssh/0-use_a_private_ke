@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Connecting to the server using a private key
-ssh -i ~/.ssh/school ubuntu@3.238.126.83
-p
+# Uses ssh to connect to a server using the private key ~/.ssh/holberton with the user ubuntu.
+
+ssh -i ~/.ssh/school ubuntu@100.26.180.150
